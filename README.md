@@ -16,7 +16,7 @@ python setup.py install
 ## 使用方法
 在python编辑器下输入调用代码
 ```python
-from tensor_view.tensor_view import heat_view
+from tensor_view.heat_view import heat_view
 ```
 
 ## 而后通过函数方法传入二维tensor即可实现热力图可视化
