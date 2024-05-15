@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+tensor_view/__init__.py
+tensor_view/gray_view.py
+tensor_view/heat_view.py
+tensor_view.egg-info/PKG-INFO
+tensor_view.egg-info/SOURCES.txt
+tensor_view.egg-info/dependency_links.txt
+tensor_view.egg-info/top_level.txt
