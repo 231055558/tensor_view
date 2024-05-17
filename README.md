@@ -1,4 +1,4 @@
-# 一个用来可视化 h * w 的tensor的python第三方库
+# 一个用来可视化 h * w 的tensor的python第四方库
 ## 安装方法
 ```markdown
 在/tensor_view-0.0.2目录下启动cmd，激活python环境
